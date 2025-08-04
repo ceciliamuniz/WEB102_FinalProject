@@ -68,7 +68,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/ceciliamuniz/WEB102_FinalProject/blob/main/src/assets/WEB102_final_gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ceciliamuniz/WEB102_FinalProject/blob/master/src/assets/WEB102_final_gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ScreenToGif 
 
